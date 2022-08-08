@@ -1,0 +1,4 @@
+db.sqlite3
+requirement.txt
+venv
+__pycache__
